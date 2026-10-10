@@ -5,5 +5,5 @@ export default defineConfig({
   site: "https://catalogo.com.co",
   trailingSlash: "never",
   build: { format: "file" },
-  integrations: [sitemap()],
+  integrations: [sitemap({ filter: (page) => !page.includes("/404") })],
 });
