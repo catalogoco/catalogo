@@ -1,0 +1,97 @@
+---
+import Base from "../layouts/Base.astro";
+import config from "../data/config.json";
+import categorias from "../data/categorias.json";
+import productos from "../data/productos.json";
+
+export function getStaticPaths() {
+  const slugs = [...categorias.map((c) => c.slug), ...productos.map((p) => p.slug)];
+  const repetidos = slugs.filter((s, i) => slugs.indexOf(s) !== i);
+  if (repetidos.length) {
+    throw new Error(`Slugs repetidos entre categorías y productos: ${repetidos.join(", ")}`);
+  }
+  for (const s of slugs) {
+    if (s !== s.toLowerCase()) throw new Error(`El slug debe ir en minúsculas: ${s}`);
+  }
+  return [
+    ...categorias.map((c) => ({ params: { slug: c.slug }, props: { tipo: "categoria", item: c } })),
+    ...productos.map((p) => ({ params: { slug: p.slug }, props: { tipo: "producto", item: p } })),
+  ];
+}
+
+const { tipo, item } = Astro.props as { tipo: "categoria" | "producto"; item: any };
+
+const pesos = (n: number) => "$" + n.toLocaleString("es-CO");
+const wa = (numero: string, texto: string) =>
+  `https://wa.me/${numero}?text=${encodeURIComponent(texto)}`;
+
+const esProducto = tipo === "producto";
+const categoria = esProducto ? categorias.find((c) => c.slug === item.categoria) : item;
+const hijos = esProducto ? [] : productos.filter((p) => p.categoria === item.slug);
+
+const titulo = esProducto
+  ? `${item.nombre} | ${categoria?.nombre ?? ""} | ${config.nombre}`
+  : `${item.nombre} | ${config.nombre}`;
+
+const jsonLd = esProducto
+  ? {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: item.nombre,
+      description: item.descripcion,
+      ...(item.imagen ? { image: new URL(item.imagen, Astro.site).href } : {}),
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "COP",
+        price: item.precioDetal,
+        availability: "https://schema.org/InStock",
+        url: new URL(Astro.url.pathname, Astro.site).href,
+      },
+    }
+  : {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      name: item.nombre,
+      description: item.descripcion,
+    };
+---
+<Base titulo={titulo} descripcion={item.descripcion} jsonLd={jsonLd}>
+  {esProducto ? (
+    <>
+      <nav class="migas">
+        <a href="/">Inicio</a> › <a href={`/${categoria?.slug}`}>{categoria?.nombre}</a>
+      </nav>
+      <h1>{item.nombre}</h1>
+      <div class="foto" style="max-width:420px">
+        {item.imagen ? <img src={item.imagen} alt={item.nombre} /> : <span>Foto pendiente</span>}
+      </div>
+      <p>{item.descripcion}</p>
+      <p class="precio">Precio al detal: {pesos(item.precioDetal)}</p>
+      <div class="botones">
+        <a class="btn btn-detal" href={wa(config.whatsappDetal, `Hola, quiero comprar al detal: ${item.nombre}`)}>
+          Comprar al detal
+        </a>
+        <a class="btn btn-mayor" href={wa(config.whatsappMayor, `Hola, quiero cotizar al por mayor: ${item.nombre}`)}>
+          Pedir al por mayor (desde {config.minimoMayor} unidades)
+        </a>
+      </div>
+    </>
+  ) : (
+    <>
+      <nav class="migas"><a href="/">Inicio</a> › {item.nombre}</nav>
+      <h1>{item.nombre}</h1>
+      <p>{item.descripcion}</p>
+      <div class="grilla">
+        {hijos.map((p) => (
+          <a class="tarjeta" href={`/${p.slug}`}>
+            <div class="foto">
+              {p.imagen ? <img src={p.imagen} alt={p.nombre} loading="lazy" /> : <span>Foto pendiente</span>}
+            </div>
+            <h2>{p.nombre}</h2>
+            <span class="precio">{pesos(p.precioDetal)}</span>
+          </a>
+        ))}
+      </div>
+    </>
+  )}
+</Base>
