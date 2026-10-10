@@ -1,0 +1,3 @@
+# Redirecciones 301 para Cloudflare Pages (una por línea: origen destino código).
+# Ejemplo si alguna URL vieja de Jumpseller cambió de dirección:
+# /producto-viejo /origen-400-ml 301
