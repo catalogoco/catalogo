@@ -1,1 +1,14 @@
+---
+import { pesos, nombreCompleto } from "../lib/catalogo.js";
 
+const { producto } = Astro.props;
+const foto = producto.imagenes?.[0];
+---
+<a class="tarjeta" href={`/${producto.slug}`}>
+  <div class="foto">
+    {foto ? <img src={foto} alt={nombreCompleto(producto)} loading="lazy" /> : <span>Foto pendiente</span>}
+  </div>
+  <h3>{producto.nombre}</h3>
+  <span class="detalle">{producto.presentacion}</span>
+  <span class="precio">{pesos(producto.precioDetal)}</span>
+</a>
