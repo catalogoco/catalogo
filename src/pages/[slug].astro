@@ -1,0 +1,132 @@
+---
+import Base from "../layouts/Base.astro";
+import config from "../data/config.json";
+import categorias from "../data/categorias.json";
+import laboratorios from "../data/laboratorios.json";
+import productos from "../data/productos.json";
+
+export function getStaticPaths() {
+  const slugLab = (l: any) => `laboratorio-${l.slug}`;
+  const rutas: any[] = [];
+
+  for (const c of categorias) {
+    const hijos = productos.filter((p: any) => p.categorias.includes(c.slug));
+    if (hijos.length) rutas.push({ slug: c.slug, props: { tipo: "categoria", item: c, hijos } });
+  }
+  for (const l of laboratorios) {
+    const hijos = productos.filter((p: any) => p.laboratorio === l.slug);
+    if (hijos.length) rutas.push({ slug: slugLab(l), props: { tipo: "laboratorio", item: l, hijos } });
+  }
+  for (const p of productos as any[]) {
+    const lab = laboratorios.find((l) => l.slug === p.laboratorio);
+    const categoria = categorias.find((c) => c.slug === p.categoriaPrincipal);
+    if (!lab) throw new Error(`Laboratorio no encontrado para ${p.slug}: ${p.laboratorio}`);
+    rutas.push({ slug: p.slug, props: { tipo: "producto", item: p, lab, categoria } });
+  }
+
+  const slugs = rutas.map((r) => r.slug);
+  const repetidos = slugs.filter((s, i) => slugs.indexOf(s) !== i);
+  if (repetidos.length) throw new Error(`Slugs repetidos: ${[...new Set(repetidos)].join(", ")}`);
+  const noMinuscula = slugs.filter((s) => s !== s.toLowerCase());
+  if (noMinuscula.length) throw new Error(`Los slugs deben ir en minúsculas: ${noMinuscula.join(", ")}`);
+
+  return rutas.map((r) => ({ params: { slug: r.slug }, props: r.props }));
+}
+
+const { tipo, item, hijos = [], lab, categoria } = Astro.props as any;
+
+const pesos = (n: number) => "$" + n.toLocaleString("es-CO");
+const wa = (numero: string, texto: string) => `https://wa.me/${numero}?text=${encodeURIComponent(texto)}`;
+const urlAbs = (ruta: string) => new URL(ruta, Astro.site).href;
+
+let titulo = "";
+let descripcion = "";
+let jsonLd: any = {};
+
+if (tipo === "producto") {
+  titulo = `${item.nombre} ${item.presentacion} | ${lab.nombre} | ${config.nombre}`;
+  descripcion = item.descripcionCorta;
+  jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    name: item.nombre,
+    description: item.descripcionCorta,
+    image: item.imagenes.map((u: string) => (u.startsWith("http") ? u : urlAbs(u))),
+    brand: { "@type": "Brand", name: lab.nombre },
+    offers: {
+      "@type": "Offer",
+      priceCurrency: "COP",
+      price: item.precioDetal,
+      availability: "https://schema.org/InStock",
+      url: urlAbs(Astro.url.pathname),
+    },
+  };
+} else if (tipo === "laboratorio") {
+  titulo = `Productos ${item.nombre} | Distribuidor al por mayor | ${config.nombre}`;
+  descripcion = item.descripcion || `Productos del laboratorio ${item.nombre}, al detal y al por mayor.`;
+  jsonLd = { "@context": "https://schema.org", "@type": "CollectionPage", name: `Productos ${item.nombre}`, description: descripcion };
+} else {
+  titulo = `${item.nombre} | ${config.nombre}`;
+  descripcion = item.descripcion;
+  jsonLd = { "@context": "https://schema.org", "@type": "CollectionPage", name: item.nombre, description: item.descripcion };
+}
+---
+<Base titulo={titulo} descripcion={descripcion} jsonLd={jsonLd}>
+  {tipo === "producto" ? (
+    <>
+      <nav class="migas">
+        <a href="/">Inicio</a> › <a href={`/${categoria.slug}`}>{categoria.nombre}</a> › {item.nombre}
+      </nav>
+      <h1>{item.nombre}</h1>
+      <p class="meta">
+        {item.presentacion} · Laboratorio: <a href={`/laboratorio-${lab.slug}`}>{lab.nombre}</a>
+      </p>
+      <div class="foto grande">
+        <img src={item.imagenes[0]} alt={`${item.nombre} ${lab.nombre}`} />
+      </div>
+      {item.imagenes.length > 1 && (
+        <div class="miniaturas">
+          {item.imagenes.slice(1).map((u: string, i: number) => (
+            <img src={u} alt={`${item.nombre} foto ${i + 2}`} loading="lazy" />
+          ))}
+        </div>
+      )}
+      <p class="precio">Precio al detal: {pesos(item.precioDetal)}</p>
+      <div class="botones">
+        <a class="btn btn-detal" href={wa(config.whatsappDetal, `Hola, quiero comprar al detal: ${item.nombre} (${lab.nombre})`)}>
+          Comprar al detal
+        </a>
+        <a class="btn btn-mayor" href={wa(config.whatsappMayor, `Hola, quiero cotizar al por mayor: ${item.nombre} (${lab.nombre})`)}>
+          Pedir al por mayor (desde {config.minimoMayor} unidades)
+        </a>
+      </div>
+      <div class="descripcion" set:html={item.descripcionHtml} />
+    </>
+  ) : (
+    <>
+      <nav class="migas"><a href="/">Inicio</a> › {tipo === "laboratorio" ? `Laboratorio ${item.nombre}` : item.nombre}</nav>
+      <h1>{tipo === "laboratorio" ? `Productos ${item.nombre}` : item.nombre}</h1>
+      <p>{item.descripcion}</p>
+      <div class="grilla">
+        {hijos.map((p: any) => (
+          <a class="tarjeta" href={`/${p.slug}`}>
+            <div class="foto"><img src={p.imagenes[0]} alt={p.nombre} loading="lazy" /></div>
+            <h2>{p.nombre}</h2>
+            <span class="meta">{p.presentacion}</span><br />
+            <span class="precio">{pesos(p.precioDetal)}</span>
+          </a>
+        ))}
+      </div>
+    </>
+  )}
+</Base>
+
+<style is:global>
+  .meta { color: var(--gris); margin: 0 0 12px; }
+  .foto.grande { max-width: 420px; }
+  .miniaturas { display: flex; gap: 8px; margin-top: 8px; max-width: 420px; }
+  .miniaturas img { width: 30%; border-radius: 6px; border: 1px solid var(--borde); }
+  .descripcion { margin-top: 28px; padding-top: 8px; border-top: 1px solid var(--borde); }
+  .descripcion h2 { font-size: 1.25rem; }
+  .descripcion img { max-width: 100%; height: auto; }
+</style>

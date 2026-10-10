@@ -1,0 +1,16 @@
+---
+import Base from "../layouts/Base.astro";
+import { catsConProductos, labsConProductos } from "../lib/catalogo.js";
+---
+<Base titulo="Página no encontrada" descripcion="Esta página no existe. Revisa nuestras categorías y laboratorios.">
+  <h1>No encontramos esa página</h1>
+  <p>Puede que el enlace sea viejo. Mira nuestras categorías:</p>
+  <ul>
+    {catsConProductos.map((c) => <li><a href={`/${c.slug}`}>{c.nombre}</a></li>)}
+  </ul>
+  <p>O los laboratorios:</p>
+  <ul>
+    {labsConProductos.map((l) => <li><a href={`/${l.slug}`}>{l.nombre}</a></li>)}
+  </ul>
+  <p><a href="/">Volver al inicio</a></p>
+</Base>
