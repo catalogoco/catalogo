@@ -1,0 +1,75 @@
+---
+import config from "../data/config.json";
+
+interface Props {
+  titulo: string;
+  descripcion: string;
+  jsonLd?: object;
+}
+
+const { titulo, descripcion, jsonLd } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+---
+<!doctype html>
+<html lang="es-CO">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{titulo}</title>
+    <meta name="description" content={descripcion} />
+    <link rel="canonical" href={canonical} />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="icon" href="/icon-192.png" />
+    <link rel="apple-touch-icon" href="/icon-192.png" />
+    <meta name="theme-color" content="#1f6f4a" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={titulo} />
+    <meta property="og:description" content={descripcion} />
+    <meta property="og:url" content={canonical} />
+    {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+    <style is:global>
+      :root { --verde: #1f6f4a; --verde-claro: #e7f3ec; --texto: #1d2420; --gris: #5d6862; --borde: #dbe3de; }
+      * { box-sizing: border-box; }
+      body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--texto); background: #fafcfb; line-height: 1.5; }
+      a { color: var(--verde); }
+      header.sitio { background: var(--verde); padding: 14px 16px; }
+      header.sitio a { color: #fff; font-weight: 700; font-size: 1.15rem; text-decoration: none; }
+      main { max-width: 960px; margin: 0 auto; padding: 20px 16px 48px; }
+      h1 { font-size: 1.6rem; margin: 0 0 8px; }
+      .migas { font-size: 0.9rem; color: var(--gris); margin-bottom: 14px; }
+      .grilla { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 14px; margin-top: 18px; }
+      .tarjeta { display: block; background: #fff; border: 1px solid var(--borde); border-radius: 12px; padding: 14px; text-decoration: none; color: inherit; }
+      .tarjeta:hover { border-color: var(--verde); }
+      .tarjeta h2 { font-size: 1.05rem; margin: 8px 0 4px; }
+      .precio { font-weight: 700; color: var(--verde); }
+      .foto { aspect-ratio: 4 / 3; background: var(--verde-claro); border-radius: 8px; display: grid; place-items: center; color: var(--gris); font-size: 0.85rem; overflow: hidden; }
+      .foto img { width: 100%; height: 100%; object-fit: cover; }
+      .botones { display: flex; flex-direction: column; gap: 10px; margin-top: 18px; max-width: 360px; }
+      .btn { display: block; text-align: center; padding: 13px 16px; border-radius: 10px; font-weight: 700; text-decoration: none; }
+      .btn-detal { background: var(--verde); color: #fff; }
+      .btn-mayor { background: #fff; color: var(--verde); border: 2px solid var(--verde); }
+      .aviso-ios { display: none; background: var(--verde-claro); padding: 10px 16px; font-size: 0.9rem; text-align: center; }
+    </style>
+  </head>
+  <body>
+    <header class="sitio"><a href="/">{config.nombre}</a></header>
+    <div class="aviso-ios" id="aviso-ios">
+      Para instalar: toca Compartir y luego "Añadir a pantalla de inicio".
+    </div>
+    <main><slot /></main>
+    <script is:inline>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", function () {
+          navigator.serviceWorker.register("/sw.js").catch(function () {});
+        });
+      }
+      (function () {
+        var esIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
+        var instalada = window.navigator.standalone === true;
+        if (esIOS && !instalada) {
+          document.getElementById("aviso-ios").style.display = "block";
+        }
+      })();
+    </script>
+  </body>
+</html>
