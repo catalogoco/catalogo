@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "origen-400-ml",
+    "categoria": "origen",
+    "nombre": "Origen 400 ml",
+    "descripcion": "Producto de ejemplo, presentación de 400 ml. Reemplaza este texto por la descripción real.",
+    "precioDetal": 25000,
+    "imagen": ""
+  },
+  {
+    "slug": "origen-1-litro",
+    "categoria": "origen",
+    "nombre": "Origen 1 litro",
+    "descripcion": "Producto de ejemplo, presentación de 1 litro. Reemplaza este texto por la descripción real.",
+    "precioDetal": 52000,
+    "imagen": ""
+  },
+  {
+    "slug": "esencia-250-ml",
+    "categoria": "esencia",
+    "nombre": "Esencia 250 ml",
+    "descripcion": "Producto de ejemplo, presentación de 250 ml. Reemplaza este texto por la descripción real.",
+    "precioDetal": 18000,
+    "imagen": ""
+  }
+]
