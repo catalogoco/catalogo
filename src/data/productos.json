@@ -1,26 +1,705 @@
 [
   {
-    "slug": "origen-400-ml",
-    "categoria": "origen",
-    "nombre": "ORIGEN 400 ml",
-    "descripcion": "Producto de ejemplo, presentación de 400 ml. Reemplaza este texto por la descripción real.",
-    "precioDetal": 17500,
-    "imagen": ""
+    "slug": "fenogreco-alholva",
+    "nombre": "Fenogreco",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Fenogreco (Alholva) Realce natural: Ayuda a tonificar y aumentar visualmente el volumen de busto y glúteos de forma orgánica. Potencia tu figura con el…",
+    "descripcionHtml": "<div><h2>\n        <b>Fenogreco (Alholva)</b>\n    </h2>\n<div>\n        <b>Realce natural:</b> Ayuda a tonificar y aumentar visualmente el volumen de busto y glúteos de forma orgánica.\n    </div>\n<i><b>Potencia tu figura con el poder de la naturaleza.</b></i><br>\n</div>\n<hr>\n<div><b>ESPECIFICACIONES:</b><br>\n<b>Contenido neto:</b> 100 cápsulas de 500 mg c/u.<br>\n<br>\n<div>\n        <b>MODO DE USO:</b><br>\n        Tomar 3 cápsulas diarias: una cápsula 30 minutos antes de cada comida principal (desayuno, almuerzo y cena).<br><br>\n        <div>\n            <b>PRECAUCIONES:</b><br>\n            Producto natural sin efectos secundarios conocidos. Se recomienda no exceder la dosis diaria sugerida.<br><br>\n            <div>\n                <b>PRODUCTO DE EXPORTACIÓN</b><br><b>Origen:</b> Perú<br><b>Elaborado por:</b> Natural Medix<br><b>Distribuido por: </b><a href=\"https://tiendanaturista.co/\" target=\"_blank\">tiendanaturista.co</a>&nbsp;Cali, Colombia<br>\n            </div>\n            <hr>\n            <div>\n                <p>\n                    <b>CONTENIDO:</b>\n                    Fenogreco (Alholva) reforzado con Maca y Aguaje. Harina tratada, micropulverizada e irradiada para máxima pureza.\n                </p>\n                <p>\n                    <b>BENEFICIOS PRINCIPALES:</b>\n                </p>\n                <ul>\n                    <li><b>Silueta y Vigor:</b> Favorece el aumento natural de busto y glúteos. Aporta energía, vitalidad y estimula la libido.</li>\n                    <li><b>Bienestar Femenino:</b> Apoya la producción de leche materna y ayuda a tonificar el organismo.</li>\n                    <li><b>Salud Metabólica:</b> Coadyuvante en el control de la diabetes y la reducción de los niveles de colesterol.</li>\n                    <li><b>Cuidado Integral:</b> Propiedades antiinflamatorias, cicatrizantes y antibióticas. Purifica la piel desde el interior.</li>\n                </ul>\n            </div>\n        </div>\n    </div></div>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34391064/fenogreco.png?1777751744",
+      "https://images.jumpseller.com/store/tiendanaturista/34391064/fenogreco-modo-de-uso.png?1777751744",
+      "https://images.jumpseller.com/store/tiendanaturista/34391064/fenogreco-original.png?1777751744",
+      "https://images.jumpseller.com/store/tiendanaturista/34391064/fenogreco-contenido.png?1777751744"
+    ]
   },
   {
-    "slug": "origen-360-ml",
-    "categoria": "origen",
-    "nombre": "ORIGEN 360 mL",
-    "descripcion": "Producto de ejemplo, presentación de 1 litro. Reemplaza este texto por la descripción real.",
-    "precioDetal": 17500,
-    "imagen": ""
+    "slug": "aguaje-siempre-bella",
+    "nombre": "Aguaje Siempre Bella",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "aguaje"
+    ],
+    "categoriaPrincipal": "aguaje",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Aguaje Siempre Bella CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas. CONTRAINDICACIONES: No…",
+    "descripcionHtml": "<h2><span style=\"color: #087f5b;\">Aguaje Siempre Bella</span></h2>\n<br>\n<dl>\n        <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n        </dt>\n    </dl>\n<hr>\n<dl>\n        <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n        </dt>\n    </dl>\n<dl>\n        <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n        </dt>\n    </dl>\n<hr>\n<dl>\n        <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">Aguaje. Harina tratada 100% micro pulverizado e irradiada.</span>\n        </dt>\n    </dl>\n<dl>\n        <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400; color: #862e9c;\">Rico en fitoestrógenos</span><br><span style=\"font-weight: 400;\">Mejore la elasticidad de la piel, contiene hormonas, que redondean las formas femeninas, afrodisíaco, previene el cáncer a la piel.</span>\n        </dt>\n    </dl><h2><span style=\"color: #2b8a3e;\">Rico en fitoestrógenos</span></h2>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34763747/aguaje-siempre-bella.png?1777758109",
+      "https://images.jumpseller.com/store/tiendanaturista/34763747/aguaje-siempre-bella-a.png?1777758109",
+      "https://images.jumpseller.com/store/tiendanaturista/34763747/aguaje-siempre-bella-b.png?1777758109",
+      "https://images.jumpseller.com/store/tiendanaturista/34763747/aguaje-siempre-bella-c.png?1777758109"
+    ]
   },
   {
-    "slug": "origen-15-discos",
-    "categoria": "origen",
-    "nombre": "ORIGEN 15 Discos",
-    "descripcion": "Producto de ejemplo, presentación de 250 ml. Reemplaza este texto por la descripción real.",
-    "precioDetal": 20000,
-    "imagen": ""
+    "slug": "aguaje-pawer",
+    "nombre": "AGUAJE pawer",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "aguaje"
+    ],
+    "categoriaPrincipal": "aguaje",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "AGUAJE pawer Rico en fitroestrogenos HORMONAS FEMENINAS CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de…",
+    "descripcionHtml": "<h2>\n    <span style=\"color: #a61e4d;\">AGUAJE pawer</span>\n</h2>\n<b>Rico en fitroestrogenos</b><br>\n<b><span style=\"color: #9c36b5;\">HORMONAS FEMENINAS</span></b><br>\n<b><span style=\"color: #9c36b5;\"></span></b><br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">Aguaje, fenogreco, maca, soya y colágeno hidrolizado. Harina tratada micro pulverizada e irradiada.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">Aumenta cadera, bustos y glúteos, mejora la elasticidad de la piel, contiene hormonas que redondea la forma femenina, previene el cáncer a la piel, ayuda a eliminar las estrías celulitis, ayuda a mantener la piel tersa, nutre el cabello, piel, uñas.</span></dt>\n</dl>\n<h2><b><span style=\"color: #ae3ec9;\">Siempre joven y bella</span></b></h2>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34763771/aguaje-pawer.png?1775360279"
+    ]
+  },
+  {
+    "slug": "aguaje-hinojo",
+    "nombre": "Aguaje Hinojo",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "aguaje"
+    ],
+    "categoriaPrincipal": "aguaje",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Aguaje Hinojo CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas. CONTRAINDICACIONES: No tiene…",
+    "descripcionHtml": "<h2>\n    <span style=\"color: #d6336c;\">Aguaje Hinojo</span>\n</h2>\n<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34763773/natural-medix-marca-1.png?1777729615"
+    ]
+  },
+  {
+    "slug": "aguaje-plus",
+    "nombre": "Aguaje plus",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "aguaje"
+    ],
+    "categoriaPrincipal": "aguaje",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Aguaje plus CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas. CONTRAINDICACIONES: No tiene…",
+    "descripcionHtml": "<h2>\n    <span style=\"color: #364fc7;\">Aguaje plus</span>\n</h2>\n<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34763775/natural-medix-marca.png?1777729632"
+    ]
+  },
+  {
+    "slug": "colageno-hidrolizado",
+    "nombre": "COLÁGENO HIDROLIZADO",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "COLÁGENO HIDROLIZADO CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas. CONTRAINDICACIONES: No…",
+    "descripcionHtml": "<h2>\n    <span style=\"color: #e03131;\">COLÁGENO HIDROLIZADO</span>\n</h2>\n<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">Colágeno hidrolizado, aguaje, maca, fenogreco. 100% naturales. Harina tratada micro pulverizada e irradiada.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>RECOMENDACIONES:<br><span style=\"font-weight: 400;\">Reduce riesgo de cáncer, vitaminas A, CYE, mejora la piel, moldea la figura, estimulante, antiparasitaria, afrodisíaca, antiinflamatoria, expectorante, laxante, hepatoprotector, diaforética. Aumenta la libido y mejora la fertilidad, antiestrés y antidepresivas, para el aprendizaje y la memoria, anemia. Regula el colesterol y ayuda en la diabetes, incrementando la actividad del páncreas.</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34763777/natural-medix-marca.png?1777729647"
+    ]
+  },
+  {
+    "slug": "triple-maca",
+    "nombre": "TRIPLE MACA",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "TRIPLE MACA CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas. CONTRAINDICACIONES: No tiene…",
+    "descripcionHtml": "<h2>\n    <span style=\"color: #ffa94d;\">TRIPLE MACA</span>\n</h2>\n<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34763778/natural-medix-marca.png?1777729673"
+    ]
+  },
+  {
+    "slug": "maca-roja",
+    "nombre": "MACA ROJA",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "MACA ROJA CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas. CONTRAINDICACIONES: No tiene…",
+    "descripcionHtml": "<h2>\n    <span style=\"color: #a61e4d;\">MACA ROJA</span>\n</h2>\n<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34763779/natural-medix-marca.png?1777729685"
+    ]
+  },
+  {
+    "slug": "maca-negra",
+    "nombre": "MACA NEGRA",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "MACA NEGRA CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas. CONTRAINDICACIONES: No tiene…",
+    "descripcionHtml": "<h2>\n    MACA NEGRA\n</h2>\n<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34763781/natural-medix-marca-1.png?1777729701"
+    ]
+  },
+  {
+    "slug": "la-pepa-negra",
+    "nombre": "La Pepa negra",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "La Pepa negra CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas. CONTRAINDICACIONES: No tiene…",
+    "descripcionHtml": "<h2>\n    La Pepa negra\n</h2>\n<div>\n    <br>\n</div>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34763782/natural-medix-marca-1.png?1777729758"
+    ]
+  },
+  {
+    "slug": "chupa-panza",
+    "nombre": "Chupa Panza",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "quemador-de-grasa"
+    ],
+    "categoriaPrincipal": "quemador-de-grasa",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Chupa Panza QUEMA GRASA 15 en 1 CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas…",
+    "descripcionHtml": "<h2><span style=\"color: #2b8a3e;\">\n    Chupa</span> <span style=\"color: #1c7ed6;\">Panza\n</span></h2>\n<b><span style=\"color: #862e9c;\">QUEMA GRASA</span></b><br><b><span style=\"color: #862e9c;\"></span></b><br>\n<h2><b><span style=\"color: #862e9c;\"><span style=\"color: #1c7ed6;\">15</span> <span style=\"color: #000000;\">en</span> <span style=\"color: #1c7ed6;\">1</span></span></b></h2>\n<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">Garcinia cambogia, caigua, espirulina te verde, Omega 3, fibras, berengena, nuez de la india, chia, cafe verde, algas marina, hercampuri, ajos, linaza, piña, te amargo, te negro, te rojo. Harina tratada 100% micropulverizado e irradiada.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">Desinflámante del hígado, eficaz para controlar y reducir la obesidad y el colesterol, desintoxica la sangre, limpia las venas de la glucosa y colesterol, adelgazante.</span>\n    </dt>\n</dl>\n<b><span style=\"color: #862e9c;\">COLESTEROL</span></b><br>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34763788/chupa-panza.png?1777734416",
+      "https://images.jumpseller.com/store/tiendanaturista/34763788/chupa-panza-modo-de-uso.png?1777734416",
+      "https://images.jumpseller.com/store/tiendanaturista/34763788/chupa-panza-original.png?1777734416",
+      "https://images.jumpseller.com/store/tiendanaturista/34763788/chupa-panza-contenido.png?1777734416"
+    ]
+  },
+  {
+    "slug": "seca-barriga",
+    "nombre": "Seca Barriga",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "adelgazante-natural"
+    ],
+    "categoriaPrincipal": "adelgazante-natural",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Seca Barriga CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas. CONTRAINDICACIONES: No tiene…",
+    "descripcionHtml": "<h2>\n    Seca Barriga\n</h2>\n<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34763789/natural-medix-marca.png?1777729773"
+    ]
+  },
+  {
+    "slug": "cafe-verde",
+    "nombre": "CAFE VERDE",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "adelgazante-natural"
+    ],
+    "categoriaPrincipal": "adelgazante-natural",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "CAFE VERDE CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas. CONTRAINDICACIONES: No tiene…",
+    "descripcionHtml": "<h2>\n    CAFE VERDE\n</h2>\n<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34763795/natural-medix-marca.png?1777729793"
+    ]
+  },
+  {
+    "slug": "te-verde",
+    "nombre": "TE VERDE",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "quemador-de-grasa"
+    ],
+    "categoriaPrincipal": "quemador-de-grasa",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "TE VERDE CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas. CONTRAINDICACIONES: No tiene…",
+    "descripcionHtml": "<h2>\n    TE VERDE\n</h2>\n<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34763796/te-verde.png?1777733112",
+      "https://images.jumpseller.com/store/tiendanaturista/34763796/te-verde-modo-de-uso.png?1777733112",
+      "https://images.jumpseller.com/store/tiendanaturista/34763796/te-verde-original.png?1777733112",
+      "https://images.jumpseller.com/store/tiendanaturista/34763796/te-verde-contenido.png?1777733112"
+    ]
+  },
+  {
+    "slug": "algas-marinas",
+    "nombre": "Algas Marinas",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "adelgazante-natural"
+    ],
+    "categoriaPrincipal": "adelgazante-natural",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Algas Marinas CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas. CONTRAINDICACIONES: No tiene…",
+    "descripcionHtml": "<h2>\n    Algas Marinas\n</h2>\n<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34766172/natural-medix-marca.png?1777729810"
+    ]
+  },
+  {
+    "slug": "adelgazante-forte",
+    "nombre": "Adelgazante FORTE",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "adelgazante-natural"
+    ],
+    "categoriaPrincipal": "adelgazante-natural",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Adelgazante FORTE CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas. CONTRAINDICACIONES: No…",
+    "descripcionHtml": "<h2>\n    Adelgazante FORTE\n</h2>\n<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34766315/natural-medix-marca.png?1777729824"
+    ]
+  },
+  {
+    "slug": "vinagre-de-manzana",
+    "nombre": "Vinagre de Manzana",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "quemador-de-grasa"
+    ],
+    "categoriaPrincipal": "quemador-de-grasa",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Vinagre de Manzana CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas. CONTRAINDICACIONES: No…",
+    "descripcionHtml": "<h2>\n    Vinagre de Manzana\n</h2>\n<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34766346/vinagre-de-manzana.png?1777738914",
+      "https://images.jumpseller.com/store/tiendanaturista/34766346/vinagre-de-manzana-modo-de-uso.png?1777738914",
+      "https://images.jumpseller.com/store/tiendanaturista/34766346/vinagre-de-manzana-original.png?1777738914",
+      "https://images.jumpseller.com/store/tiendanaturista/34766346/vinagre-de-manzana-contenido.png?1777738914"
+    ]
+  },
+  {
+    "slug": "nuez-de-la-india",
+    "nombre": "NUEZ DE LA India",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "NUEZ DE LA India + TE VERDE CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas…",
+    "descripcionHtml": "<h2>\n    NUEZ DE LA India + TE VERDE\n</h2>\n<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34766414/Mi_20video-1.gif?1783579155"
+    ]
+  },
+  {
+    "slug": "memorex-cerebral",
+    "nombre": "Memorex Cerebral",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "ESPECIFICACIONES: Contenido neto: 100 cápsulas de 500 mg c/u. MODO DE USO: Tomar 3 cápsulas diarias: una cápsula 30 minutos antes de cada comida principal…",
+    "descripcionHtml": "<div><b>ESPECIFICACIONES:</b><br>\n<b>Contenido neto:</b> 100 cápsulas de 500 mg c/u.<br>\n<br>\n<div>\n        <b>MODO DE USO:</b><br>\n        Tomar 3 cápsulas diarias: una cápsula 30 minutos antes de cada comida principal (desayuno, almuerzo y cena).<br><br>\n        <div>\n            <b>PRECAUCIONES:</b><br>\n            Producto natural sin efectos secundarios conocidos. Se recomienda no exceder la dosis diaria sugerida.<br><br>\n            <div>\n                <b>PRODUCTO DE EXPORTACIÓN</b><br>\n                <b>Origen:</b> Perú<br>\n                <b>Elaborado por:</b> Natural Medix<br><b>Distribuido por: </b><a href=\"https://tiendanaturista.co/\" target=\"_blank\">tiendanaturista.co</a>&nbsp;Cali, Colombia\n            </div>\n        </div>\n    </div></div>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34766476/memorex-cerebral.png?1777750312",
+      "https://images.jumpseller.com/store/tiendanaturista/34766476/memorex-cerebral-modo-de-uso.png?1777750312",
+      "https://images.jumpseller.com/store/tiendanaturista/34766476/memorex-cerebral-original.png?1777750312",
+      "https://images.jumpseller.com/store/tiendanaturista/34766476/memorex-cerebral-contenido.png?1777750312"
+    ]
+  },
+  {
+    "slug": "colageno-hidrolizado-suplemento-nutricional",
+    "nombre": "COLÁGENO HIDROLIZADO Suplemento nutricional",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "COLÁGENO HIDROLIZADO Suplemento nutricional CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas…",
+    "descripcionHtml": "<h2><b><span style=\"color: #862e9c;\">COLÁGENO HIDROLIZADO</span></b></h2>\n<b><span style=\"color: #5f3dc4;\">Suplemento nutricional</span></b><br>\n&nbsp;<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">Colágeno hidrolizado reforzado con vitamina C, Tratada, micro pulverizada e irradiada.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">El colágeno es utilizado en el tratamiento de artritis, reumatismo, artrosis y la osteoporosis. Regenera y fortalece huesos, articulaciones, ligamentos, tendones, músculos, piel, uñas y pelo.</span>\n    </dt>\n</dl><h2><span style=\"color: #862e9c;\">Cuida tu piel</span></h2>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34768283/colageno-hidrolizado.png?1777769368",
+      "https://images.jumpseller.com/store/tiendanaturista/34768283/colageno-hidrolizado-a.png?1777769368",
+      "https://images.jumpseller.com/store/tiendanaturista/34768283/colageno-hidrolizado-b.png?1777769368",
+      "https://images.jumpseller.com/store/tiendanaturista/34768283/colageno-hidrolizado-c.png?1777769368"
+    ]
+  },
+  {
+    "slug": "glucosamine",
+    "nombre": "Glucosamine",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Glucosamine CHONDROITIN Colágeno hidrolizado Cartílago de tiburón Regenera huesos y articulaciones CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3…",
+    "descripcionHtml": "<h2>Glucosamine</h2>\n<b><span style=\"color: #364fc7;\">CHONDROITIN Colágeno hidrolizado</span></b><b>&nbsp;Cartílago de tiburón</b><br><b>Regenera huesos y articulaciones</b><br>\n&nbsp;<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34768460/glucosamine-colageno-cartilago-de-tiburon.png?1777756078",
+      "https://images.jumpseller.com/store/tiendanaturista/34768460/glucosamine-colageno-cartilago-de-tiburon-modo-de-uso.png?1777756078",
+      "https://images.jumpseller.com/store/tiendanaturista/34768460/glucosamine-colageno-cartilago-de-tiburon-original.png?1777756078",
+      "https://images.jumpseller.com/store/tiendanaturista/34768460/glucosamine-colageno-cartilago-de-tiburon-contenido.png?1777756078"
+    ]
+  },
+  {
+    "slug": "celulas-madre",
+    "nombre": "Células Madre",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Células Madre Envejecimiento prematuro Acido hialuronico / Acido Fólico CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media…",
+    "descripcionHtml": "<h2>Células Madre</h2>\n<b>Envejecimiento prematuro</b><br>\n<b><span style=\"color: #1971c2;\">Acido hialuronico / Acido Fólico</span></b><br>\n&nbsp;<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34769941/celulas-madre.png?1777733922",
+      "https://images.jumpseller.com/store/tiendanaturista/34769941/celulas-madre-modo-de-uso.png?1777733922",
+      "https://images.jumpseller.com/store/tiendanaturista/34769941/celulas-madre-original.png?1777733922",
+      "https://images.jumpseller.com/store/tiendanaturista/34769941/celulas-madre-contenido.png?1777733922"
+    ]
+  },
+  {
+    "slug": "vitamina-c",
+    "nombre": "Vitamina C",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "vitaminas"
+    ],
+    "categoriaPrincipal": "vitaminas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Vitamina C Refuerza el sistema inmunológico CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 cápsulas diarias: una cápsula 30 minutos antes de cada…",
+    "descripcionHtml": "<h2><span style=\"color: #2b8a3e;\">Vitamina</span> <span style=\"color: #c92a2a;\">C</span></h2>\n<b><span style=\"color: #d9480f;\">Refuerza el sistema inmunológico</span></b><br>\n&nbsp;<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 cápsulas diarias: una cápsula 30 minutos antes de cada comida principal (desayuno, almuerzo y cena).</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PRECAUCIONES:<br><span style=\"font-weight: 400;\">Producto natural sin efectos secundarios conocidos. Se recomienda no exceder la dosis diaria sugerida.</span></dt></dl><hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">Naranja, Kiwi, Arandano, Camu camu. 100% naturales. Harina tratada micropulverizada e irradiada.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>RECOMENDACIONES:<br><span style=\"font-weight: 400;\">Ayuda a reparar y mantener el cartílago, los huesos y los dientes, antioxidante, previene el Alzheimer, arterioesclerosis, cicatrizante, previene las enfermedades cardiacas ya que el ácido ascórbico disminuye el colesterol lo que evita que la grasa se adhiera a los vasos sanguineos, reduciendo la posibilidad de sufrir infartos. Sistema inmonologico. Resfrios, gripes, ayuda a la absorción de hierro, antioxidantes.</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34770421/flayer_vitamina_c.jpeg?1777778519"
+    ]
+  },
+  {
+    "slug": "vitamina-e",
+    "nombre": "Vitamina E",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "vitaminas"
+    ],
+    "categoriaPrincipal": "vitaminas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Vitamina E PODEROSO ANTIOXIDANTE CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas…",
+    "descripcionHtml": "<h2><span style=\"color: #0c8599;\"><span style=\"color: #2b8a3e;\">Vitamina</span> <span style=\"color: #c92a2a;\">E</span></span></h2>\n<b><span style=\"color: #e64980;\">PODEROSO ANTIOXIDANTE</span></b><br>\n&nbsp;<br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        CONTENIDO:<br><span style=\"font-weight: 400;\">Vitamina E. 100% Harina tratada micropulverizada e irradiada</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        PROPIEDADES:<br><span style=\"font-weight: 400;\">Enfermedad de Alzheimer, Artritis reumática, Infertilidad masculina, Parkinson, Beta talasemia, Prevención de la demencia en la vejez, Mejorar la visión, Mejorar el rendimiento físico y la fuerza en personas de edad avanzada, Infecciones pulmonares, Enfermedades del corazón, Hipertensión, Cáncer de próstata, de recto, Cáncer de piel.</span>\n    </dt>\n</dl><b><span style=\"color: #364fc7;\">Antioxidante</span></b><br>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34770784/natural-medix-marca.png?1777729560"
+    ]
+  },
+  {
+    "slug": "citrato-de-magnesio",
+    "nombre": "CITRATO de Magnesio",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "CITRATO de Magnesio CUERPO JUVEN Y VITAL CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas…",
+    "descripcionHtml": "<h2><span style=\"color: #a61e4d;\">CITRATO</span> <span style=\"color: #364fc7;\">de Magnesio</span></h2>\n<b><span style=\"color: #c2255c;\"><span style=\"color: #1864ab;\">CUERPO</span> JUVEN Y VITAL</span></b><br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dt></dt><br><br>\n<span style=\"font-weight: 400;\">El citrato de magnesio sirven para nuestros propósitos en el cuerpo principalmente actúa como electrolito. El citrato de magnesio es una mezcla de ácido citrico y sal de magnesio lleno de beneficios para la salud. Ayuda a mantener el cuerpo joven y vital.</span><br><span style=\"font-weight: 400;\"></span><br>\n\n<dl>\n    <dt>\n        BENEFICIOS:<br><span style=\"font-weight: 400;\">Contribuye a la eliminación de cálculos renales.<br><br>Previene la migraña Ayuda a la concentración muscular.<br><br>Necesario para eliminar el exceso de sal y líquidos del organismo mejorando la hipertensión.-<br><br>Contribuyen buen funcionamiento del corazón</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34770859/citrato-de-magnesio.png?1777737773",
+      "https://images.jumpseller.com/store/tiendanaturista/34770859/citrato-de-magnesio-modo-de-uso.png?1777737773",
+      "https://images.jumpseller.com/store/tiendanaturista/34770859/citrato-de-magnesio-original.png?1777737773",
+      "https://images.jumpseller.com/store/tiendanaturista/34770859/citrato-de-magnesio-beneficios.png?1777737773"
+    ]
+  },
+  {
+    "slug": "cloruro-de-magnesio",
+    "nombre": "CLORURO DE MAGNESIO",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "CLORURO DE MAGNESIO CALCIO / VIT. C CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas…",
+    "descripcionHtml": "<h2>CLORURO DE MAGNESIO</h2>\n<b><span style=\"color: #a61e4d;\">CALCIO / VIT. C</span></b><br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n\n\n\n\n<dl>\n    <dt>CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl><dl>\n    <dt>PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34771197/cloruro-de-magnesio.png?1777737274",
+      "https://images.jumpseller.com/store/tiendanaturista/34771197/cloruro-de-magnesio-modo-de-uso.png?1777737274",
+      "https://images.jumpseller.com/store/tiendanaturista/34771197/cloruro-de-magnesio-original.png?1777737275",
+      "https://images.jumpseller.com/store/tiendanaturista/34771197/cloruro-de-magnesio-contenido.png?1777737275"
+    ]
+  },
+  {
+    "slug": "citrato-de-potasio",
+    "nombre": "Citrato de POTASIO",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Citrato de POTASIO REGULADOR ACIDEZ CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas…",
+    "descripcionHtml": "<h2><span style=\"color: #1864ab;\">Citrato de POTASIO</span></h2>\n<span style=\"color: #c92a2a;\"><b>REGULADOR ACIDEZ</b></span><br><span style=\"color: #c92a2a;\"><b></b></span><br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>CONTENIDO:<br><span style=\"font-weight: 400;\">El citrato de potasio es una sal potásica del ácido cítrico.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>PROPIEDADES:<br><span style=\"font-weight: 400;\">Regulador de la acidez.<br><br>Se emplea como medicamento contra el tratamiento de las piedras del riñón, siendo de la misma forma una substancia quelante del calcio.<br><br>Evita la cristalización y formación de sales de calcio y la formación de los cálculos renales.<br><br>Eliminar el ácido úrico.</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34771219/citrato-de-potasio.png?1777736151",
+      "https://images.jumpseller.com/store/tiendanaturista/34771219/citrato-de-potasio-modo-de-uso.png?1777736151",
+      "https://images.jumpseller.com/store/tiendanaturista/34771219/citrato-de-potasio-original.png?1777736151",
+      "https://images.jumpseller.com/store/tiendanaturista/34771219/citrato-de-potasio-contenido.png?1777736151"
+    ]
+  },
+  {
+    "slug": "chanca-piedra",
+    "nombre": "CHANCA PIEDRA",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "desinflamante-depurativo"
+    ],
+    "categoriaPrincipal": "desinflamante-depurativo",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "CHANCA PIEDRA Disuelve cálculos renales y biliares CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las…",
+    "descripcionHtml": "<h2>CHANCA PIEDRA</h2>\n<span style=\"color: #000000;\"><b>Disuelve cálculos renales y biliares</b></span><br>\n<span style=\"color: #c92a2a;\"><b></b></span><br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34771297/chanca-piedra.png?1777753557",
+      "https://images.jumpseller.com/store/tiendanaturista/34771297/chanca-piedra-modo-de-uso.png?1777753557",
+      "https://images.jumpseller.com/store/tiendanaturista/34771297/chanca-piedra-original.png?1777753557",
+      "https://images.jumpseller.com/store/tiendanaturista/34771297/chanca-piedra-contenido.png?1777753557"
+    ]
+  },
+  {
+    "slug": "enfermedades-de-la-mujer",
+    "nombre": "Enfermedades de la mujer",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "desinflamante-depurativo"
+    ],
+    "categoriaPrincipal": "desinflamante-depurativo",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Enfermedades de la mujer Elimina quistes y tumores CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las…",
+    "descripcionHtml": "<h2>Enfermedades de la mujer</h2>\n<span style=\"color: #000000;\"><b>Elimina quistes y tumores</b></span><br>\n<span style=\"color: #c92a2a;\"><b></b></span><br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34771411/enfermedades-de-la-mujer.png?1777755155",
+      "https://images.jumpseller.com/store/tiendanaturista/34771411/enfermedades-de-la-mujer-modo-de-uso.png?1777755155",
+      "https://images.jumpseller.com/store/tiendanaturista/34771411/enfermedades-de-la-mujer-original.png?1777755155",
+      "https://images.jumpseller.com/store/tiendanaturista/34771411/enfermedades-de-la-mujer-contenido.png?1777755155"
+    ]
+  },
+  {
+    "slug": "prostasan-plus",
+    "nombre": "Prostasan plus",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "prostata"
+    ],
+    "categoriaPrincipal": "prostata",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Prostasan plus Desinflamante depurativo CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas…",
+    "descripcionHtml": "<h2><span style=\"color: #c92a2a;\">Prostasan plus</span></h2>\n<span style=\"color: #364fc7;\"><b>Desinflamante depurativo</b></span><br>\n<span style=\"color: #c92a2a;\"><b></b></span><br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34771464/prostasan-plus.png?1777733216",
+      "https://images.jumpseller.com/store/tiendanaturista/34771464/prostasan-plus-modo-de-uso.png?1777733216",
+      "https://images.jumpseller.com/store/tiendanaturista/34771464/prostasan-plus-original.png?1777733216",
+      "https://images.jumpseller.com/store/tiendanaturista/34771464/prostasan-plus-contenido.png?1777733216"
+    ]
+  },
+  {
+    "slug": "prostazeus",
+    "nombre": "PROSTAZEUS",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "prostata"
+    ],
+    "categoriaPrincipal": "prostata",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "PROSTA ZEUS SAW PALLMETO / MACA NEGRA / UÑA DE GATO /ACHIOTEC CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora…",
+    "descripcionHtml": "<h2>PROSTA<span style=\"color: #364fc7;\">ZEUS</span></h2>\n<span style=\"color: #364fc7;\"><b>SAW PALLMETO / MACA NEGRA / UÑA DE GATO /ACHIOTEC</b></span><br>\n<span style=\"color: #c92a2a;\"><b></b></span><br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34771470/prostazeus.png?1777733202",
+      "https://images.jumpseller.com/store/tiendanaturista/34771470/prostazeus-modo-de-uso.png?1777733202",
+      "https://images.jumpseller.com/store/tiendanaturista/34771470/prostazeus-original.png?1777733202",
+      "https://images.jumpseller.com/store/tiendanaturista/34771470/prostazeus-contenido.png?1777733202"
+    ]
+  },
+  {
+    "slug": "saw-palmetto",
+    "nombre": "Saw Palmetto",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "prostata"
+    ],
+    "categoriaPrincipal": "prostata",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Saw Palmetto Próstata CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas. CONTRAINDICACIONES: No…",
+    "descripcionHtml": "<h2><span style=\"color: #087f5b;\">Saw Palmetto</span></h2>\n<span style=\"color: #c92a2a;\"><b>Próstata</b></span><br>\n<span style=\"color: #c92a2a;\"><b></b></span><br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>CONTENIDO:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>\n<dl>\n    <dt>PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34774708/saw-palmetto_20_281_29_1.png?1777733236",
+      "https://images.jumpseller.com/store/tiendanaturista/34774708/saw-palmetto-modo-de-uso.png?1777733236",
+      "https://images.jumpseller.com/store/tiendanaturista/34774708/saw-palmetto-original.png?1777733236",
+      "https://images.jumpseller.com/store/tiendanaturista/34774708/saw-palmetto-contenido.png?1777733236"
+    ]
+  },
+  {
+    "slug": "una-de-gato",
+    "nombre": "Uña de gato",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Uña de gato Uncaria tomentosa Desinflamante Depurativo CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de…",
+    "descripcionHtml": "<h2><span style=\"color: #c92a2a;\">Uña de gato</span></h2>\n<span style=\"color: #364fc7;\"><b>Uncaria tomentosa</b></span><br><span style=\"color: #364fc7;\"><b>Desinflamante Depurativo</b></span><br>\n<span style=\"color: #c92a2a;\"><b></b></span><br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>CONTENIDO:<br><span style=\"font-weight: 400;\">Uña de gato Harina tratada micropulverizada e irradiada</span>\n    </dt>\n</dl>\n<dl>\n    <dt>PROPIEDADES:<br><span style=\"font-weight: 400;\">Aumenta las defensas inmunológicas, ayuda a prevenir la artritis, reumatoide, Antioxidante, Combate enfermedades regenerativas como los tumores malignos, anticancerigenos, combate inflamaciones prostaticas, cicatrizante de úlceras intestinales y heridas internas, antiinflamatorio natural, previene el cáncer de próstata prostatitis.</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34777701/u_C3_B1a-de-gato.png?1775331375"
+    ]
+  },
+  {
+    "slug": "omega-3",
+    "nombre": "Omega 3",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Omega 3 Fortalece la memoria Accion antioxidante CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las…",
+    "descripcionHtml": "<h2><span style=\"color: #364fc7;\">Omega</span> <span style=\"color: #c92a2a;\">3</span></h2>\n<div><span style=\"color: #c92a2a;\"><b>Fortalece la memoria</b></span></div><span style=\"color: #087f5b;\"><b>Accion antioxidante</b></span><br>\n<span style=\"color: #c92a2a;\"><b></b></span><br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>CONTENIDO:<br><span style=\"font-weight: 400;\">Omega 3,6 y 9. 100% Harina tratada micropulverizada e irradiada.</span></dt>\n</dl>\n<dl>\n    <dt>PROPIEDADES:<br><span style=\"font-weight: 400;\">Mejora la salud cardiovascular, mejoran el sistema respiratorio, reducen el asma, reducen el crecimiento de células cancerígenas, mejora la memoria, protege el cerebro, favorece la salud ocular, favorece la pérdida de peso.</span>\n    </dt>\n</dl><p><span style=\"color: #c92a2a;\"><b>TRIGLICERIDOS</b></span></p>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34777781/omega-3.png?1775331121"
+    ]
+  },
+  {
+    "slug": "centella-asiatica",
+    "nombre": "Centella asiática",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Centella asiática Cicatrización natural CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas…",
+    "descripcionHtml": "<h2><span style=\"color: #c92a2a;\">Centella <span style=\"color: #087f5b;\">asiática</span></span></h2>\n<div><span style=\"color: #c92a2a;\"><b>Cicatrización natural</b></span></div>\n<span style=\"color: #d6336c;\"><b></b></span><br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>CONTENIDO:<br><span style=\"font-weight: 400;\">-</span></dt>\n</dl>\n<dl>\n    <dt>PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34777898/centella-asiatica.png?1777731756",
+      "https://images.jumpseller.com/store/tiendanaturista/34777898/centella-asiatica-modo-de-uso.png?1777731756",
+      "https://images.jumpseller.com/store/tiendanaturista/34777898/centella-asiatica-original.png?1777731756",
+      "https://images.jumpseller.com/store/tiendanaturista/34777898/centella-asiatica-contenido.png?1777731756"
+    ]
+  },
+  {
+    "slug": "100-plantas",
+    "nombre": "100 plantas",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "100 plantas Próstata, quistes, Intestinos hinchados CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las…",
+    "descripcionHtml": "<h2><span style=\"color: #364fc7;\">100 plantas</span></h2>\n<div><span style=\"color: #c92a2a;\"><b>Próstata, quistes, Intestinos hinchados</b></span></div>\n\n<span style=\"color: #d6336c;\"><b></b></span><br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>CONTENIDO:<br><span style=\"font-weight: 400;\">-</span></dt>\n</dl>\n<dl>\n    <dt>PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34777918/natural-medix-marca.png?1777729545"
+    ]
+  },
+  {
+    "slug": "cardo-mariano",
+    "nombre": "Cardo Mariano",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas",
+      "desinflamante-depurativo"
+    ],
+    "categoriaPrincipal": "desinflamante-depurativo",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Cardo Mariano Hígado / Vesícula CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada media hora antes de las comidas…",
+    "descripcionHtml": "<h2><span style=\"color: #364fc7;\">Cardo Mariano</span></h2>\n<span style=\"color: #d6336c;\"><b>Hígado / Vesícula</b></span><br>\n<span style=\"color: #c92a2a;\"><b></b></span><br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>CONTENIDO:<br><span style=\"font-weight: 400;\">-</span></dt>\n</dl>\n<dl>\n    <dt>PROPIEDADES:<br><span style=\"font-weight: 400;\">-</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/34778747/cardo-mariano.png?1777752569",
+      "https://images.jumpseller.com/store/tiendanaturista/34778747/cardo-mariano-modo-de-uso.png?1777752569",
+      "https://images.jumpseller.com/store/tiendanaturista/34778747/cardo-mariano-original.png?1777752569",
+      "https://images.jumpseller.com/store/tiendanaturista/34778747/cardo-mariano-contenido.png?1777752569"
+    ]
+  },
+  {
+    "slug": "chupa-panza-fibra-450-g",
+    "nombre": "Chupa Panza fibra 450 g",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "quemador-de-grasa"
+    ],
+    "categoriaPrincipal": "quemador-de-grasa",
+    "presentacion": "450 g",
+    "descripcionCorta": "Datos Generales Marca: Natural Medix (Productos Naturales) Nombre del Producto: Chupa Panza Tipo de Producto: Quema Grasa Contenido Neto: 450 gr Sello…",
+    "descripcionHtml": "Datos Generales<br>\nMarca: Natural Medix (Productos Naturales)<br>\nNombre del Producto: Chupa Panza<br>\nTipo de Producto: Quema Grasa<br>\nContenido Neto: 450 gr<br>\nSello: 100% Natural<br>\nBeneficios y Propiedades Principales<br>\nExcelente para bajar de peso y cuidar el colon.<br>\nAyuda a eliminar grasa localizada.<br>\nPromete reducir 4 kilos por mes.<br>\nIngredientes (Fórmula \"15 en 1\")<br>\nBerenjena<br>\nNuez de la India<br>\nChía<br>\nCafé Verde<br>\nHercampuri<br>\nTé Rojo<br>\nFlor de Jamaica<br>\nAlgas Marinas<br>\nLinaza<br>\nAlcachofa<br>\nSpirulina<br>\nQuiebra Barriga<br>\nStevia<br>\nGarcinia Cambogia<br>",
+    "precioDetal": 12000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/35055816/chupa-panza-fibra.png?1777757571",
+      "https://images.jumpseller.com/store/tiendanaturista/35055816/chupa-panza-fibra-a.png?1777757571"
+    ]
+  },
+  {
+    "slug": "una-de-gato-copiar",
+    "nombre": "Uña de gato + Sangre de grado",
+    "laboratorio": "natural-medix",
+    "categorias": [
+      "capsulas"
+    ],
+    "categoriaPrincipal": "capsulas",
+    "presentacion": "100 cápsulas de 500 mg",
+    "descripcionCorta": "Uña de gato + Sangre de grado Uncaria tomentosa Desinflamante Depurativo CAPSULA 500 mg. 100 Capsulas MODO DE USO: Tomar 3 capsulas diarias, una cada…",
+    "descripcionHtml": "<h2><span style=\"color: #c92a2a;\">Uña de gato + Sangre de grado</span></h2>\n<span style=\"color: #364fc7;\"><b>Uncaria tomentosa</b></span><br>\n<span style=\"color: #364fc7;\"><b>Desinflamante Depurativo</b></span><br>\n<span style=\"color: #c92a2a;\"><b></b></span><br>\n<dl>\n    <dt>\n        CAPSULA 500 mg.<br><span style=\"font-weight: 400;\">100 Capsulas</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>\n        MODO DE USO:<br><span style=\"font-weight: 400;\">Tomar 3 capsulas diarias, una cada media hora antes de las comidas.</span>\n    </dt>\n</dl>\n<dl>\n    <dt>\n        CONTRAINDICACIONES:<br><span style=\"font-weight: 400;\">No tiene contraindicaciones ni efectos secundarios.</span>\n    </dt>\n</dl>\n<hr>\n<dl>\n    <dt>CONTENIDO:<br><span style=\"font-weight: 400;\">Uña de gato Harina tratada micropulverizada e irradiada</span>\n    </dt>\n</dl>\n<dl>\n    <dt>PROPIEDADES:<br><span style=\"font-weight: 400;\">Aumenta las defensas inmunológicas, ayuda a prevenir la artritis, reumatoide, Antioxidante, Combate enfermedades regenerativas como los tumores malignos, anticancerigenos, combate inflamaciones prostaticas, cicatrizante de úlceras intestinales y heridas internas, antiinflamatorio natural, previene el cáncer de próstata prostatitis.</span>\n    </dt>\n</dl>",
+    "precioDetal": 11000,
+    "imagenes": [
+      "https://images.jumpseller.com/store/tiendanaturista/35152154/u_C3_B1a-de-gato-sangre-de-grado.png?1777731196",
+      "https://images.jumpseller.com/store/tiendanaturista/35152154/u_C3_B1a-de-gato-sangre-de-grado-modo-de-uso.png?1777731196",
+      "https://images.jumpseller.com/store/tiendanaturista/35152154/u_C3_B1a-de-gato-sangre-de-grado-original.png?1777731196",
+      "https://images.jumpseller.com/store/tiendanaturista/35152154/u_C3_B1a-de-gato-sangre-de-grado-contenido.png?1777731196"
+    ]
   }
 ]

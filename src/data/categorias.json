@@ -1,12 +1,37 @@
 [
   {
-    "slug": "origen",
-    "nombre": "ORIGEN",
-    "descripcion": "Línea ORIGEN: productos naturales."
+    "slug": "capsulas",
+    "nombre": "Cápsulas",
+    "descripcion": "Suplementos naturales en cápsulas de 500 mg, frasco de 100 cápsulas."
   },
   {
-    "slug": "star-natural",
-    "nombre": "Star Natural",
-    "descripcion": "Línea Star Natural: productos Naturales."
+    "slug": "vitaminas",
+    "nombre": "Vitaminas",
+    "descripcion": "Vitaminas y minerales en cápsulas."
+  },
+  {
+    "slug": "aguaje",
+    "nombre": "Aguaje",
+    "descripcion": "Productos a base de aguaje."
+  },
+  {
+    "slug": "adelgazante-natural",
+    "nombre": "Adelgazante natural",
+    "descripcion": "Productos naturales de la línea adelgazante."
+  },
+  {
+    "slug": "quemador-de-grasa",
+    "nombre": "Quemador de grasa",
+    "descripcion": "Productos naturales de la línea quema grasa."
+  },
+  {
+    "slug": "prostata",
+    "nombre": "Próstata",
+    "descripcion": "Suplementos naturales de la línea próstata."
+  },
+  {
+    "slug": "desinflamante-depurativo",
+    "nombre": "Desinflamante depurativo",
+    "descripcion": "Suplementos naturales de la línea desinflamante y depurativo."
   }
 ]
