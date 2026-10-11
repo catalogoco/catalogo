@@ -1483,17 +1483,17 @@
   {
     "slug": "origen-400-ml",
     "nombre": "ORIGEN 400 mL",
-    "laboratorio": "Laboratorios Vanier",
-    "categorias": [],
+    "laboratorio": "laboratorios-vanier",
+    "categorias": [Laboratorios Vanier],
     "categoriaPrincipal": null,
     "presentacion": "400 mL",
-    "registroInvima": null,
+    "registroInvima": "RSAV12136011",
     "descripcionCorta": "",
     "descripcionHtml": "",
     "precioDetal": 15600,
     "imagenes": [],
     "imagenesOriginales": [],
-    "publicar": false
+    "publicar": true
   },
   {
     "slug": "blue-line-360-ml",
