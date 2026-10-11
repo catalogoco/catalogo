@@ -1482,18 +1482,18 @@
   },
   {
     "slug": "origen-400-ml",
-    "nombre": "Origen",
-    "laboratorio": "vanier",
+    "nombre": "ORIGEN 400 mL",
+    "laboratorio": "Laboratorias Vanier",
     "categorias": [],
     "categoriaPrincipal": null,
     "presentacion": "400 mL",
     "registroInvima": null,
     "descripcionCorta": "",
     "descripcionHtml": "",
-    "precioDetal": null,
+    "precioDetal": 15600,
     "imagenes": [],
     "imagenesOriginales": [],
-    "publicar": false
+    "publicar": true
   },
   {
     "slug": "blue-line-360-ml",
@@ -1505,10 +1505,10 @@
     "registroInvima": "RSA-0089-2025",
     "descripcionCorta": "",
     "descripcionHtml": "",
-    "precioDetal": null,
+    "precioDetal": 15600,
     "imagenes": [],
     "imagenesOriginales": [],
-    "publicar": false
+    "publicar": true
   },
   {
     "slug": "zarzilla-alfa-500-ml",
@@ -1523,6 +1523,6 @@
     "precioDetal": null,
     "imagenes": [],
     "imagenesOriginales": [],
-    "publicar": false
+    "publicar": true
   }
 ]
