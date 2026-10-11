@@ -1493,7 +1493,7 @@
     "precioDetal": 15600,
     "imagenes": [],
     "imagenesOriginales": [],
-    "publicar": true
+    "publicar": false
   },
   {
     "slug": "blue-line-360-ml",
@@ -1523,6 +1523,6 @@
     "precioDetal": 15600,
     "imagenes": [],
     "imagenesOriginales": [],
-    "publicar": true
+    "publicar": false
   }
 ]
