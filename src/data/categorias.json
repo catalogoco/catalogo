@@ -1,4 +1,9 @@
 [
+  {
+    "slug": "bebida-a-base-de-agua",
+    "nombre": "Bebida a base de agua",
+    "descripcion": "Bebida a base de agua con fruta."
+  },
     {
     "slug": "comprimidos",
     "nombre": "Comprimidos",
