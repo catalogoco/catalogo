@@ -40,7 +40,7 @@ export function validar() {
       if (!catPorSlug[c]) errores.push(`${p.slug}: la categoría "${c}" no existe en categorias.json`);
     }
     if (p.precioDetal == null) errores.push(`${p.slug}: falta precioDetal (o ponle "publicar": false)`);
-    if (!p.imagenes || p.imagenes.length === 0) errores.push(`${p.slug}: no tiene imágenes (o ponle "publicar": false)`);
+    // Las imágenes son opcionales: sin foto, el producto muestra "Foto pendiente".
   }
   if (errores.length) throw new Error("Problemas en los datos:\n - " + errores.join("\n - "));
 }
