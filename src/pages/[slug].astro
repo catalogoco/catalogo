@@ -65,6 +65,9 @@ if (tipo === "producto") {
     description: item.descripcionCorta,
     ...(fotos.length ? { image: fotos.map((u) => (u.startsWith("http") ? u : urlAbs(u))) } : {}),
     brand: { "@type": "Brand", name: lab.nombre },
+    ...(item.registroInvima
+      ? { additionalProperty: { "@type": "PropertyValue", name: "Registro sanitario INVIMA", value: item.registroInvima } }
+      : {}),
     offers: {
       "@type": "Offer",
       priceCurrency: "COP",
@@ -112,6 +115,7 @@ if (tipo === "producto") {
           <p class="lab">
             {item.presentacion} · Laboratorio: <a href={`/laboratorio-${lab.slug}`}>{lab.nombre}</a>
           </p>
+          {item.registroInvima && <p class="lab">Registro sanitario INVIMA: {item.registroInvima}</p>}
           <p class="precio">Precio al detal: {pesos(item.precioDetal)}</p>
           <div class="botones">
             <a class="btn btn-detal" href={wa(config.whatsappDetal, `Hola, quiero comprar al detal: ${nombreCompleto(item)} (${lab.nombre})`)}>
