@@ -1,4 +1,9 @@
 [
+    {
+    "slug": "comprimidos",
+    "nombre": "Comprimidos",
+    "descripcion": "Alimento en disco prensado."
+  },
   {
     "slug": "capsulas",
     "nombre": "Cápsulas",
