@@ -1,7 +1,7 @@
 {
   "name": "catalogo",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "astro dev",
@@ -11,5 +11,6 @@
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",
     "astro": "^7.3.8"
+    "imagenes": "node scripts/descargar-imagenes.mjs"
   }
 }
