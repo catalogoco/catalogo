@@ -10,7 +10,7 @@
     "imagenes": "node scripts/descargar-imagenes.mjs"
   },
   "dependencies": {
-    "@astrojs/sitemap": "(la versión que ya tienes)",
-    "astro": "^7.3.8"
+    "@astrojs/cloudflare": "^14.3.0",
+    "astro": "^7.3.1"
   }
 }
