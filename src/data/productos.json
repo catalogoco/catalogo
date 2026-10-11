@@ -1484,7 +1484,10 @@
     "slug": "origen-400-ml",
     "nombre": "ORIGEN 400 mL",
     "laboratorio": "laboratorios-vanier",
-    "categorias": bebida-a-base-de-agua,
+    "categorias": [
+      "capsulas",
+      "aguaje"
+    ],
     "categoriaPrincipal": null,
     "presentacion": "400 mL",
     "registroInvima": "RSAV12136011",
