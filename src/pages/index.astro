@@ -3,48 +3,55 @@ import Base from "../layouts/Base.astro";
 import TarjetaProducto from "../components/TarjetaProducto.astro";
 import config from "../data/config.json";
 import { productos, labsConProductos, catsConProductos, productosDeLab, productosDeCat } from "../lib/catalogo.js";
+import "../styles/global.css";
 
-const titulo = `${config.nombre} | Productos al detal y por mayor`.slice(0, 60);
-const descripcion = config.descripcion.length > 160
-  ? config.descripcion.slice(0, 157) + "..."
-  : config.descripcion;
+const siteUrl = "https://catalogo.com.co/";
+const title = "catalogo | Bebidas, productos naturales y suplementos";
+const description =
+  "Descubre catalogo, una marca comercial con bebidas, productos naturales y suplementos de diferentes fabricantes. Explora el catálogo y consulta las presentaciones disponibles.";
 
-const urlSitio = Astro.site ?? new URL(Astro.url.origin);
-const canonical = new URL("/", urlSitio).href;
+const ogImage = `${siteUrl}images/og-catalogo.jpg`;
+const instagram = "https://www.instagram.com/catalogoco/";
+
+const productosVisibles = productos.filter(
+  (producto) => producto.publicar !== false
+);
+
+const categoriasVisibles = categorias;
+
+const laboratoriosVisibles = laboratorios;
+
+const formatoPrecio = (precio) =>
+  new Intl.NumberFormat("es-CO", {
+    style: "currency",
+    currency: "COP",
+    maximumFractionDigits: 0,
+  }).format(precio ?? 0);
+
+const nombreLaboratorio = (slug) =>
+  laboratorios.find((laboratorio) => laboratorio.slug === slug)?.nombre ??
+  "Fabricante por confirmar";
 
 const jsonLd = {
   "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Organization",
-      "@id": `${canonical}#organizacion`,
-      name: config.nombre,
-      url: canonical,
-      description: descripcion,
+      "@id": `${siteUrl}#organization`,
+      name: "catalogo",
+      url: siteUrl,
+      logo: `${siteUrl}icons/catalogo-192.png`,
+      email: "hola@catalogo.co",
+      sameAs: [instagram],
     },
     {
       "@type": "WebSite",
-      "@id": `${canonical}#sitio`,
-      url: canonical,
-      name: config.nombre,
+      "@id": `${siteUrl}#website`,
+      url: siteUrl,
+      name: "catalogo",
+      description,
       inLanguage: "es-CO",
-      publisher: { "@id": `${canonical}#organizacion` },
-    },
-    {
-      "@type": "CollectionPage",
-      name: titulo,
-      url: canonical,
-      isPartOf: { "@id": `${canonical}#sitio` },
-      mainEntity: {
-        "@type": "ItemList",
-        numberOfItems: productos.length,
-        itemListElement: labsConProductos.map((l, i) => ({
-          "@type": "ListItem",
-          position: i + 1,
-          name: l.nombre,
-          url: new URL(`/laboratorio-${l.slug}`, urlSitio).href,
-        })),
-      },
+      publisher: { "@id": `${siteUrl}#organization` },
     },
   ],
 };
